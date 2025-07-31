@@ -41,13 +41,6 @@ Explore all my projects in the [Repositories tab](https://github.com/Lalitprajap
 - 🐙 GitHub: (https://github.com/Lalit-Analyst)
 ---
 
-### 📈 GitHub Stats
-
-![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lalitprajapati27&show_icons=true&theme=vue-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalitprajapati27&layout=compact&theme=vue-dark)
-
----
 
 ### 🧭 Goals for 2025
 
