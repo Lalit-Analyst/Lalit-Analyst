@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Lalit Prajapati
 
-<!--
-**Lalit-Analyst/Lalit-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📍Pune, Maharashtra, India  
+🎯 Aspiring Data Analyst | 💡 Problem Solver | 📊 SQL | 📗 Excel | 📈 Data Visualization
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+I'm a self-motivated learner who loves solving real-world problems using data. My focus is on mastering data analytics tools like **SQL**, **Excel**, and **Power BI** to drive data-driven decisions.
+
+I’ve recently completed projects analyzing retail sales data using SQL and Excel, answering business questions and building dashboards to deliver insights clearly and efficiently.
+
+---
+
+### 🔧 Tools & Technologies
+
+- 💾 SQL (MySQL, PostgreSQL)
+- 📊 MS Excel (PivotTables, Power Query, Dashboards)
+- 📉 Power BI (Learning in progress)
+- 📌 Python (Basics for data manipulation)
+- 📚 Currently Learning: Advanced Excel + Power BI
+
+---
+
+### 📂 Portfolio Projects
+
+| Project                    | Tools       | Description                                                                                    |
+|----------------------------|-------------|------------------------------------------------------------------------------------------------|
+| **Retail Orders Analysis** | SQL + Excel | Analyzed sales data to identify trends, build KPIs, and design an interactive Excel dashboard. |
+
+
+Explore all my projects in the [Repositories tab](https://github.com/Lalitprajapati27?tab=repositories).
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [prajapatilalit9111@gmail.com](mailto:prajapatilalit9111@gmail.com)
+- 🔗 LinkedIn: (https://www.linkedin.com/in/lalit-prajapati-16b924370/)
+- 🐙 GitHub: (https://github.com/Lalit-Analyst)
+---
+
+### 📈 GitHub Stats
+
+![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lalitprajapati27&show_icons=true&theme=vue-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalitprajapati27&layout=compact&theme=vue-dark)
+
+---
+
+### 🧭 Goals for 2025
+
+- ✅ Build a strong project portfolio in SQL + Power BI
+- ✅ Land an internship or freelance data analysis role
+- 🔄 Contribute to open-source analytics projects
+- 🎯 Achieve Excel Specialist Certification
+
+---
+
+**Thanks for visiting my profile!** 🌟  
+Let's turn raw data into powerful insights together!
